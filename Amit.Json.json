@@ -1,0 +1,12 @@
+"paths": {
+    "new_path/paths":{
+        "post":{
+            "tags":['Retrieve Information'],
+            "summary:"Retrieve for all locations",
+            "description":"<p>Certain information",
+            "operationid":"
+
+
+        }
+    }
+}
