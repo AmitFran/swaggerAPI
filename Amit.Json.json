@@ -252,7 +252,7 @@
               "produces":["application/json"],
               
           }
-      }
+      },
       "/common/franchisee/filter": {
         "post": {
           "tags": [
