@@ -250,17 +250,7 @@
               "operationId":"Specific Number",
               "consumes":["application/json"],
               "produces":["application/json"],
-              "parameters":[{
-                  "in":"body",
-                  "name":"list",
-                  "description": "ParameterType:ArrayList<Entity>",
-                  "required": false,
-                  "schema": {
-                  "type": "array",
-                  "items": {}
-              }
               
-          }]
       },
       "/common/franchisee/filter": {
         "post": {
