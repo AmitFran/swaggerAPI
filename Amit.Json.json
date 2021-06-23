@@ -242,7 +242,7 @@
           }
         }
       },
-      "/path/new":{
+      "/common/Amit":{
           "post":{
               "tags":["Retrieve Modules"],
               "summary":"Retrieve for all locations",
